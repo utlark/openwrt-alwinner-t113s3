@@ -372,7 +372,6 @@ define U-Boot/bananapi_p2_zero
   BUILD_DEVICES:=sinovoip_bananapi-p2-zero
 endef
 
-
 define U-Boot/mangopi_mqdual_t113
   BUILD_SUBTARGET:=cortexa7
   NAME:=MangoPi MQDual (T113)
